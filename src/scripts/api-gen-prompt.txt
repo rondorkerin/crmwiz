@@ -1,0 +1,12 @@
+You're going to create a typescript API Integration (single .ts file) for a company specified below.
+You're going to return a class that is instantiated by authentication parameters (Oauth, API Key etc) called CompanyNameInternal
+
+For each API method, you should create a function that looks like this:
+
+async function methodName() {
+    params: Function that returns params (a param looks like : { internalName, formattedName, type, description? })
+}
+
+Also make sure to make a function that returns the authentication parameters 
+
+From the file your exports will be:
