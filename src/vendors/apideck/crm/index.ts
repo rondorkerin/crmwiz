@@ -1,4 +1,5 @@
 // https://github.com/apideck-libraries/node-sdk/tree/main/src/gen/models
+
 // https://raw.githubusercontent.com/apideck-libraries/openapi-specs/master/crm.yml
 // translate yml to json
 // minify json
